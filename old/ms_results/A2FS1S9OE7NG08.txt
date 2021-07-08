@@ -1,0 +1,21 @@
+5,1,1,5
+4,1,2,3
+23735,26229,33444,33562
+23.101,25.612,32.826,32.937
+10149,17034,12397,10035
+9.533,16.404,11.749,9.464
+A2FS1S9OE7NG08
+Laptop
+undefined
+undefined
+It depends on the page load and picture visible in the website.
+Chrome
+41.305
+0
+1,1,1,1
+1,1,1,1
+0,0,0,0
+0,0,0,0
+0,-1,0,0
+,,,
+0

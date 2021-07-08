@@ -1,0 +1,21 @@
+3,3,2,2,2
+1,2,5,4,3
+42803,24614,21068,19794,33296
+41.428,23.238,19.713,18.423,22.897
+23907,2999,3867,2662,16320
+22.532,1.842,2.719,1.471,14.917
+A2YHSU2IJZ9J14
+Desktop
+39 - 45
+Cable network
+The speed at which the images loaded and in general how long it took to finish loading the website. The loading speed of the website in the various videos were pretty close i would say, therefore a guideline video of some sort would help workers to give a more accurate review or gradings.
+Chrome
+22.024
+0
+2,1,1,1,1
+2,1,1,0,1
+1,0,0,0,0
+0,0,0,0,0
+0,0,0,0,-1
+,,,,
+0

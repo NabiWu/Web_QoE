@@ -1,0 +1,21 @@
+2,2,2,2,1
+1,2,3,5,4
+51687,21544,21223,27244,19939
+41.3,20.945,20.682,19.604,19.393
+13669,3717,1720,2438,1906
+13.11,3.244,1.255,1.965,1.388
+A320QA9HJFUOZO
+Desktop
+32 - 38
+Cable network
+The only thing I care about is how fast the page gets to 100% loaded. Also I found the task confusing because at least on the first video, I assumed the numbered countdown timer was part of the "loading time." If not, it just seems unnecessary
+Chrome
+17.484
+0
+1,1,1,1,1
+1,1,1,1,1
+0,0,0,0,0
+0,0,0,0,0
+0,0,-1,0,0
+,,,,
+0

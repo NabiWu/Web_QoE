@@ -1,0 +1,21 @@
+4,2,2,4,2
+1,2,4,5,3
+23380,22163,22152,22507,21846
+22.161,21.357,21.257,21.611,20.91
+8583,4311,4055,4708,5294
+7.81,3.262,3.107,3.414,4.471
+A3U21PUMQ6NGT2
+Desktop
+39 - 45
+WiFi
+How quickly each part of the page loads is important to me. If I have to sit and wait before I can access the whole page it is frustrating. 
+Chrome
+21.379
+0
+1,1,1,1,1
+1,1,1,1,1
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,-1,0
+,,,,
+0

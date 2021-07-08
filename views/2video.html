@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<!-- saved from url=(0043)http://ivc.uwaterloo.ca/research/RDOS/demo/ -->
+<html>
+<style type="text/css">
+    
+
+.dash-video-player {
+    /* background-color: #000000; */
+    position: relative;
+    padding: 0;
+    max-width: 960px;
+}
+
+.dash-video-player video {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    object-fit: fill;
+}
+
+
+
+</style>
+
+<head>    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+
+   <link rel="stylesheet" href="/static/css/bootstrap2.min.css">
+    <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+       <script src="/static/js/bootstrap.js"></script>
+
+</head>
+{% extends "base.html" %} {% block main %}
+<meta content="width=device-width,initial-scale=1" name="viewport" />
+<body>
+
+      <div class="panel-body", style="text-align:center" >
+          <video width="1024" height="576" controls="controls" id="myVideo" >
+                 
+          </video>
+          <h2> Test Video</h2> 
+      </div>
+        </br></br>
+
+        </div>
+
+  <div id="form_container">
+      <form action="grade" method="POST" style="text-align:center" id="next_page">
+          <button type="submit" class="btn btn-primary" onclick="return checkform()">Go to Grading</button>
+      </form>
+  </div>
+<br>
+
+
+
+</body>
+<script>
+	var seek = 0;
+var play = 0
+var pause = 0
+/*
+document.getElementById("form_container").style.display="none";
+            
+
+document.getElementById('myVideo').addEventListener('ended',myHandler1,false);
+    function myHandler1(e) {
+        document.getElementById("form_container").style.display="block";
+    }
+*/
+document.getElementById('myVideo').addEventListener('play',myHandler2,false);
+    function myHandler2(e) {
+        play = play + 1
+    }
+
+document.getElementById('myVideo').addEventListener('seeking',myHandler3,false);
+    function myHandler3(e) {
+        seek = seek + 1
+    }
+
+document.getElementById('myVideo').addEventListener('pause',myHandler4,false);
+    function myHandler4(e) {
+        pause = pause + 1
+    }
+
+
+</script>
+<script>
+  function createCORSRequest(method, url) {
+  var xhr = new XMLHttpRequest();
+  if ("withCredentials" in xhr) {
+
+    // Check if the XMLHttpRequest object has a "withCredentials" property.
+    // "withCredentials" only exists on XMLHTTPRequest2 objects.
+    xhr.open(method, url, true);
+  } else if (typeof XDomainRequest != "undefined") {
+    
+    // Otherwise, check if XDomainRequest.
+    // XDomainRequest only exists in IE, and is IE's way of making CORS requests.
+    xhr = new XDomainRequest();
+    xhr.open(method, url);
+
+  } else {
+
+    // Otherwise, CORS is not supported by the browser.
+    xhr = null;a
+
+  }
+  return xhr;
+}
+
+
+var req =  createCORSRequest('GET','{{video_src}}');
+req.responseType = 'blob';
+
+
+req.onload = function() {
+   // Onload is triggered even on 404
+   // so we need to check the status code
+   if (this.status === 200) {
+      var videoBlob = this.response;
+      var vid = URL.createObjectURL(videoBlob); // IE10+
+      // Video is now downloaded
+      // and we can set it as source on the video element
+      document.getElementById('myVideo').src = vid;
+   }
+}
+req.onerror = function() {
+   // Error
+}
+
+req.send();
+function checkform(){
+
+    
+     var timeSpentOnPage = TimeMe.getTimeOnCurrentPageInSeconds().toString();
+     $('#next_page').append("<input type='hidden' name='active_time' value='"+
+                         timeSpentOnPage+"' />");
+     $('#next_page').append("<input type='hidden' name='play' value='"+
+                         play+"' />");
+     $('#next_page').append("<input type='hidden' name='pause' value='"+
+                         pause+"' />");
+     $('#next_page').append("<input type='hidden' name='seek' value='"+
+                         seek+"' />");
+
+     return true;
+    }
+
+function checkform2(){
+     var timeSpentOnPage = TimeMe.getTimeOnCurrentPageInSeconds().toString();
+     $('#next_page2').append("<input type='hidden' name='active_time' value='"+
+                         timeSpentOnPage+"' />");
+     return true;
+    }
+</script>
+
+</html>
+
+
+  {% endblock %}
+

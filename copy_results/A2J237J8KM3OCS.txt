@@ -1,0 +1,21 @@
+5,5,4,3,4
+1,2,3,4,5
+34985,33383,24553,29919,30864
+33.519,29.282,23.15,28.508,29.487
+23971,12361,7157,6833,6245
+16.743,10.977,5.751,5.441,4.872
+A2J237J8KM3OCS
+Laptop
+32 - 38
+WiFi
+Website page load speed depends on a variety of factors such as unoptimized images, a high number of HTTP requests....No issues with experiment guidelines....all clear to me
+Chrome
+26.749
+0
+1,1,1,1,1
+1,1,1,1,1
+0,0,0,0,0
+0,0,0,0,0
+0,0,-1,0,0
+,,,,
+0

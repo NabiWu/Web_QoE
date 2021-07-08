@@ -1,0 +1,21 @@
+2,1,4,4,4
+1,2,4,3,5
+28252,20066,19513,18184,18292
+25.441,19.879,19.32,17.986,18.105
+9917,2301,2874,5849,4650
+9.626,2.015,2.629,5.549,4.39
+A1XUZFDVKP95VC
+Desktop
+39 - 45
+Cable network
+mainly trying to get the most information loaded on the page to start reading is whats important to me. the guideline was clear and no issues
+Chrome
+20.851
+0
+1,1,1,1,1
+1,1,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,-1,0
+,,,,
+0

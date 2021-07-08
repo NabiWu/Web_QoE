@@ -1,0 +1,21 @@
+3,4,4,5
+4,2,3,1
+3971,5324,3942,25295
+2.839,4.372,2.904,23.073
+4978,5218,6074,9677
+3.327,4.027,3.834,7.786
+A3TSHGIPHCQ078
+Desktop
+undefined
+undefined
+mentioning some details of the loading process will be helpful! Like what makes you give different ratings for different videos you saw.
+Chrome
+30.267
+0
+0,0,0,4
+0,0,0,3
+0,0,0,3
+0,0,0,0
+0,0,-1,0
+,,,
+1

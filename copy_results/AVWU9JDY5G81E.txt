@@ -1,0 +1,21 @@
+2,2,3,2,2
+1,2,4,3,5
+28980,21306,21391,20090,19319
+28.162,20.964,20.944,19.706,18.979
+7697,5696,3518,3136,2748
+7.316,5.311,3.181,2.838,2.457
+AVWU9JDY5G81E
+Laptop
+46 - 52
+WiFi
+usually when i type in the search and hit enter, it doesnt partially load and then pause, it loads right away even if there is no result and i get the error message
+Chrome
+26.209
+0
+1,1,1,1,1
+1,1,1,1,0
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,-1,0
+,,,,
+0

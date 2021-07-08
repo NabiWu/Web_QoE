@@ -1,0 +1,21 @@
+4,4,5,5,4
+1,2,5,3,4
+18923,21155,18127,21131,22908
+18.605,20.773,17.817,20.815,22.314
+2926,4988,2146,2375,2613
+2.686,4.669,1.894,2.135,2.285
+A175PJR0W3LO8I
+Desktop
+32 - 38
+WiFi
+Speed of loading the main content was most relevant. Some aspects such as the weather forecast were slow to load, but it is not the primary content so it was not annoying to me.   For all 5 instances, the top left corner was blank, but I assume that  was intentional?
+Chrome
+13.414
+0
+1,1,1,1,1
+0,1,0,0,1
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,-1
+,,,,
+0

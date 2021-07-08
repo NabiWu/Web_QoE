@@ -1,0 +1,21 @@
+4,4,4,4
+2,4,1,3
+22008,21879,22195,19658
+19.94,19.869,20.16,17.64
+7655,15498,5196,8233
+5.56,13.396,3.46,6.186
+ASWZO1WY1UHEP
+Desktop
+undefined
+undefined
+Instruction was very clear. I like all the videos to loading the web page. Generally web page image and videos loading take some time. But I agree all videos of webpage loading is quick timing. 
+Chrome
+6.208
+0
+1,1,1,1
+1,1,1,0
+0,0,0,0
+0,0,0,0
+-1,0,0,0
+,,,
+0

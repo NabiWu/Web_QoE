@@ -1,0 +1,21 @@
+4,2,2,1,2
+1,2,5,4,3
+29369,28878,27330,23467,22848
+27.152,26.96,25.062,21.399,20.94
+8864,5094,7206,10565,5103
+7.208,3.399,5.257,8.405,3.25
+A3L3ZFL1NYFTCF
+Desktop
+32 - 38
+Cable network
+Nothing was confused, the guideline was clear to understand. The video should load smoothly, like the text shouldn't load one by one. It should not be buffered again and again.
+Chrome
+15.226
+0
+1,1,1,1,1
+1,1,1,1,1
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,-1
+,,,,
+0

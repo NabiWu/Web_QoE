@@ -1,0 +1,21 @@
+1,4,5,5,4
+1,2,3,5,4
+14553,10311,7097,6101,5620
+8.419,7.647,5.125,4.191,3.546
+6512,3289,2943,3015,2476
+5.751,2.721,2.421,2.411,1.959
+A2JZQHB8N6LS7T
+Smart phone
+25 - 31
+WiFi
+What matters to me is speed. If it seems like the loading circle is taking too long then that's bad for me.
+Chrome
+23.988
+0
+5,4,3,3,2
+5,4,3,3,2
+0,0,0,0,0
+0,0,0,0,0
+0,0,-1,0,0
+,,,,
+1

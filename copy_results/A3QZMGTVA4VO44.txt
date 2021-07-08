@@ -1,0 +1,21 @@
+5,5,4,5,4
+1,2,3,4,5
+28765,23837,26615,62924,27454
+26.439,21.712,24.401,57.495,25.277
+12805,7060,8648,6788,5537
+10.444,4.8,6.332,4.24,2.983
+A3QZMGTVA4VO44
+Desktop
+32 - 38
+Cable network
+The loading of web page didn't cause serious affect in my watching experience. The guidelines are clear and nothing is confusing. Side-by-side comparison is highly helpful in grading.
+Chrome
+22.452
+0
+1,1,1,1,1
+1,1,1,1,1
+0,0,0,0,0
+0,0,0,0,0
+0,0,-1,0,0
+,,,,
+1

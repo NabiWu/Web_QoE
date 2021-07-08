@@ -1,0 +1,21 @@
+4,2,4,4
+3,4,1,2
+11516,12751,33022,11057
+10.314,11.473,30.08,9.8
+2627,3739,18340,4550
+1.801,2.664,15.079,3.469
+ALWYZOTS2TNRL
+Desktop
+undefined
+undefined
+the page had to load something as fast as possible
+Chrome
+38.994
+0
+2,2,2,2
+1,1,1,1
+1,1,1,1
+0,0,0,0
+-1,0,1,0
+,,,
+0

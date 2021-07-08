@@ -1,0 +1,21 @@
+2,2,2,2,1
+1,2,4,5,3
+42816,20291,17048,18386,14698
+39.987,18.845,14.214,16.972,13.276
+22185,2611,3511,2764,2682
+19.346,1.413,2.279,1.53,1.492
+A2QD9PJUKW7PKK
+Desktop
+25 - 31
+Cable network
+website load should be seamless and effortless and this 5 video website were opening slow and it doesn't satisfy the way it loads
+Chrome
+10.485
+0
+2,1,2,1,1
+2,1,1,0,0
+0,0,0,0,0
+0,0,0,0,0
+1,0,0,-1,0
+,,,,
+0

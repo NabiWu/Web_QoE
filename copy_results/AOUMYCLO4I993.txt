@@ -1,0 +1,21 @@
+4,3,3,2,2
+1,2,3,4,5
+72524,38821,36242,43881,37106
+60.904,36.355,33.422,40.819,34.282
+22069,5780,6082,5819,5494
+12.101,3.135,2.894,3.478,2.796
+AOUMYCLO4I993
+Laptop
+32 - 38
+WiFi
+I think, webpage should be loaded swiftly. Some videos showed sluggishness of content. If it is difficult to load all content on same page, webpage admin should shift some of the contents to other parts of websites so that web user will have smooth experience of visiting the website. Thank you.   
+Chrome
+43.772
+0
+3,2,2,2,2
+3,2,2,2,2
+5,1,2,1,1
+0,0,0,0,0
+0,0,-1,0,0
+,,,,
+0

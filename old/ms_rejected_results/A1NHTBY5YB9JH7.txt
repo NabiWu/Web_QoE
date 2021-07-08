@@ -1,0 +1,21 @@
+3,4,4,4,4
+1,2,3,4,5
+21312,12890,4702,6158,4303
+20.922,12.146999999999998,4.39,5.803,3.996
+15663,9325,4366,3487,2552
+15.259,8.608,4.046,3.165,2.219
+A1NHTBY5YB9JH7
+Desktop
+53 - 59
+WiFi
+How fast it loads is the most important. It drives me nuts when something loads really slowly and the loading indicator just spins and spins.
+Firefox
+45.116
+0
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+0,1,-1,0,0
+,,,,
+1

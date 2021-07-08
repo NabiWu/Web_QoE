@@ -1,0 +1,21 @@
+3,4,4,4
+3,2,1,4
+14118,12247,26700,14997
+12.755,11.426,25.932,14.362
+6483,4261,10222,5056
+5.713,3.615,9.352,4.404
+A1EKCXY2VNK5IY
+Laptop
+undefined
+undefined
+Some other elements also exist in the air that are too small for the pie chart. They include neon (Ne), helium (He), methane (CH4), krypton (Kr), hydrogen (H2), nitrous oxide (N2O), xenon (Xe) and carbon dioxide (CO2). These gases make up the remaining 0.1%.
+Chrome
+32.111
+0
+1,1,1,1
+0,0,0,0
+0,0,0,0
+0,0,0,0
+-1,0,0,0
+,,,
+1

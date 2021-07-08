@@ -1,0 +1,21 @@
+3,4,3,2
+4,1,3,2
+22614,22708,24372,21878
+21.113,21.646,19.82,20.524
+6726,26706,3485,9943
+5.591,6.004,2.575,8.782
+A21XMG5KSWXX9M
+Laptop
+undefined
+undefined
+The time it takes to load at its full, like to show all the data in the page. It is annoying when it shows only part of the page
+Chrome
+22.316
+0
+1,1,1,1
+1,1,1,1
+0,0,0,0
+0,0,0,0
+0,0,-1,0
+,,,
+0

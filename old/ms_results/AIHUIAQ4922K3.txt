@@ -1,0 +1,21 @@
+4,4,4,4
+4,1,2,3
+17261,23097,22084,23460
+15.468,21.385,20.084,20.988
+4349,4948,4759,9341
+2.722,3.308,3.107,7.517
+AIHUIAQ4922K3
+Laptop
+undefined
+undefined
+As long as the text comes up within 2 seconds, then it's fast enough in my opinion.
+Chrome
+20.589
+0
+1,1,1,1
+0,0,1,1
+0,0,0,0
+0,0,0,0
+0,-1,0,0
+,,,
+0

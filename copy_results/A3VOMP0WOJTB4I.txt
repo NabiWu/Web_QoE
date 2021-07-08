@@ -1,0 +1,21 @@
+4,5,4,3,2
+1,2,4,5,3
+47816,22630,20890,24386,23409
+40.152,18.856,19.006,14.272,21.026
+10926,3674,4036,3340,3904
+8.251,1.925,2.007,1.615,1.921
+A3VOMP0WOJTB4I
+Laptop
+25 - 31
+Cable network
+Due to quality damage I lose interest in watching video during a turning point. The experiment guidelines were clear.
+Chrome
+13.352
+0
+1,1,1,1,1
+1,1,0,0,0
+0,0,0,0,0
+0,0,0,0,0
+0,0,0,-1,0
+,,,,
+0

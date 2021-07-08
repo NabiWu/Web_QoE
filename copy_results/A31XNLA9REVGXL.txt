@@ -1,0 +1,21 @@
+4,3,4,5,4
+1,2,3,5,4
+35360,25829,22441,17630,17070
+18.033,25.5,22.07,17.279,16.75
+6559,3528,3084,2643,2619
+6.224,3.19,2.799,2.351,2.325
+A31XNLA9REVGXL
+Laptop
+46 - 52
+Cable network
+If it seemed like it was going fast I rated it higher. If it seemed liked the countdown was moving and the pictures were loading reasonably well then I graded it like that. I hope I did well. I tried my best. Thank you.
+Chrome
+32.209
+0
+3,1,1,1,1
+3,1,0,0,0
+2,0,0,0,0
+0,0,0,0,0
+0,0,-1,0,0
+,,,,
+1

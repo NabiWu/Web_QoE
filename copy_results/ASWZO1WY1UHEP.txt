@@ -1,0 +1,21 @@
+3,4,4,4,4
+1,2,3,5,4
+70962,30579,39775,20988,26270
+46.208,28.422,37.887,18.944,23.951
+21886,12378,5014,5438,6994
+20.032,10.5,3.386,3.692,4.907
+ASWZO1WY1UHEP
+Desktop
+32 - 38
+Cable network
+Guideline was very clear. All kind of webpage loading little bit slowly. But not bad. 
+Chrome
+18.299
+0
+2,1,1,1,1
+2,1,1,0,1
+1,0,0,0,0
+0,0,0,0,0
+0,0,-1,0,0
+,,,,
+0

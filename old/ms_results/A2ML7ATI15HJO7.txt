@@ -1,0 +1,21 @@
+3,3,4,4
+4,3,2,1
+27158,25418,23635,26460
+24.381,22.519,22.075,22.78
+8579,6440,7250,8923
+6.55,4.934,5.408,6.237
+A2ML7ATI15HJO7
+Laptop
+undefined
+undefined
+some loaded quickly while others were slow a bit. No I am not confused about the grading process.
+Chrome
+28.558
+0
+2,2,1,1
+2,2,1,1
+0,0,0,0
+0,0,0,0
+0,-1,0,0
+,,,
+0

@@ -1,0 +1,21 @@
+4,3,3,2
+1,4,2,3
+33310,26821,22516,30697
+29.416,23.675,20.025,27.575
+9561,5784,17421,7800
+6.373,2.667,14.172,4.663
+A2MS1GQLGAX9FZ
+Laptop
+undefined
+undefined
+I liked when more parts of the page loaded together
+Chrome
+19.435
+0
+1,1,1,2
+1,1,1,2
+0,0,0,1
+0,0,0,0
+0,-1,0,0
+,,,
+0

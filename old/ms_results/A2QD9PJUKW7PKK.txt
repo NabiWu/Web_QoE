@@ -1,0 +1,21 @@
+4,2,4,4
+3,4,2,1
+14999,18299,28131,19704
+13.633,16.933,26.736,17.597
+2768,2543,11759,4807
+1.587,1.4,10.429,3.62
+A2QD9PJUKW7PKK
+Desktop
+undefined
+undefined
+website fast loading is important. But the video shown were reasonably neither slow nor fast but acceptable. That's why i agree on 3 video and 2nd last video was really slow so i disagree
+Chrome
+7.697
+0
+1,1,2,2
+0,0,1,2
+0,0,1,0
+0,0,0,0
+0,-1,0,0
+,,,
+0

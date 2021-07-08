@@ -26,14 +26,16 @@ var post_start = async (ctx, next) => {
     var age = ctx.request.body.age;
     var network = ctx.request.body.network;
     var video_order = [];
-    for (let i = 0; i < 1; i++) {
-        temp = [...getOder(1,2)]
-        for (let j = 0 ;j <2; j++){
-	    temp2 = [...getOder(0,1)];
-	    video_order.push(1 + i * 4  + temp[j]*2 + temp2[0]);
-	    video_order.push(1 + i * 4 + temp[j]*2 + temp2[1]);
-	}
-    }
+    // for (let i = 0; i < 1; i++) {
+    //     temp = [...getOder(1,2)]
+    //     for (let j = 0 ;j <2; j++){
+	//     temp2 = [...getOder(0,1)];
+	//     video_order.push(1 + i * 4  + temp[j]*2 + temp2[0]);
+	//     video_order.push(1 + i * 4 + temp[j]*2 + temp2[1]);
+	// }
+    // }
+    video_order.push(1);
+    video_order.push(2);
     video_order.push(3);
 
 	console.log(video_order);

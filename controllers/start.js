@@ -4,7 +4,7 @@ var fs = require('fs');
 
 const vid_folder = "Archive_test1";
 var vid_path = "./videos/" + vid_folder;
-var video_url = "https://raw.githubusercontent.com/tony-ou/web_QoE/main/videos/" + vid_folder + "/";
+var video_url = "https://raw.githubusercontent.com/NabiWu/Web_QoE/main/videos/" + vid_folder + "/";
 
 var num_vids;
 

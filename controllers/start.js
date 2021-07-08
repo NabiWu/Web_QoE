@@ -2,7 +2,7 @@
 var getOder = require('../models/random');
 var fs = require('fs');
 
-const vid_folder = "poke5";
+const vid_folder = "Archive_test1";
 var vid_path = "./videos/" + vid_folder;
 var video_url = "https://raw.githubusercontent.com/tony-ou/web_QoE/main/videos/" + vid_folder + "/";
 
@@ -27,14 +27,14 @@ var post_start = async (ctx, next) => {
     var network = ctx.request.body.network;
     var video_order = [];
     for (let i = 0; i < 1; i++) {
-        temp = [...getOder(0,1)]
+        temp = [...getOder(1,2)]
         for (let j = 0 ;j <2; j++){
 	    temp2 = [...getOder(0,1)];
 	    video_order.push(1 + i * 4  + temp[j]*2 + temp2[0]);
 	    video_order.push(1 + i * 4 + temp[j]*2 + temp2[1]);
 	}
     }
-    video_order.push(5);
+    video_order.push(3);
 
 	console.log(video_order);
     //var video_order = [1,2,3,4,5,6,7]

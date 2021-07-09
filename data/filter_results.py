@@ -58,7 +58,7 @@ for result_file in result_files:
     with open(result, "r") as fp:
         lines = fp.readlines()
         move = False
-
+        print(lines[0])
         #insert customized filter here 
         move = filter_single_video(*parse_results(lines))
         if move == 1:
